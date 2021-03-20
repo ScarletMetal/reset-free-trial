@@ -1,4 +1,4 @@
-# Resets JetBrains Trial Perioud For Linux Systems
+# Resets JetBrains Trial Period For Linux Systems
 
 Supports: Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine, GoLand and Rider
 
